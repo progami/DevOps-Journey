@@ -1,1 +1,2 @@
- # 01 - Git Learning \n This branch is related to learning about git in devops practices
+ # 01 - Git Learning
+ all learning related to GIT will take place in this branch

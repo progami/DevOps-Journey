@@ -1,4 +1,4 @@
-# DevOps-Practice
+# DevOps-Journey
 
 ## This repo has different branches - each branch is dedicated to a certain part of learning DevOps practices
 
@@ -8,7 +8,7 @@
     - 3.1 - AWS CSA - Associate exam
 
 
-## DevOps Roadmap is attached for an overall summary
+## DevOps Roadmap / Overall Summary
 
 ![My Image](devops.png)
 

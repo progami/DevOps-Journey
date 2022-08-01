@@ -13,4 +13,5 @@
 
 ![My Image](devops.png)
 
-Note: This image does not belong to me, ill look up the owner soon and add credits
+Roadmap Credits: https://roadmap.sh/devops
+

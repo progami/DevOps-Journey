@@ -11,12 +11,15 @@
 ## DevOps stack covered
 - **Planning**: ✔️ Jira, ✔️ Slack, ✔️ Notion
 - **Source-Control**: ✔️ GitHub, GitLab
-- **Build**: Kubernetes, ✔️ Docker
+- **Scripting**: ✔️ Python, Go, ✔️ C++, Bash
+- **Build/Containers**: Kubernetes, ✔️ Docker
 - **Infrastructure-as-code**: Terraform, ✔️ Cloudformation
 - **CI/CD**: Jenkins, ✔️ GitHub Actions, sonarsource
 - **Cloud-Providers**: ✔️ AWS, GCP, Azure
 - **Config-Management**: ✔️ Ansible, Chef, Puppet
-- **Monitoring**: Nagios
+- **Infrastructure-Monitoring**: Nagios, Prometheus
+- **Logging**: ELK-Stack, ✔️ Cloudwatch
+- **App-Monitoring**: Jaeger, New Relic
 
 
 ## DevOps Roadmap / Overall Summary

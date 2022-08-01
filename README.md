@@ -6,7 +6,7 @@
 - 2.x - Jenkins / Automation
 - 3.x - Cloud Providers / Infrastructure
     - 3.1 - Cloud Resume Challenge
-    - 3.2 - AWS CSA - Associate exam
+    - 3.2 - AWS CSA - Associate exam (Temporarily down)
 
 
 ## DevOps Roadmap / Overall Summary

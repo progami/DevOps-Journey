@@ -10,10 +10,12 @@
 
 ## DevOps stack covered
 - **Planning**: ✔️ Jira, ✔️ Slack, ✔️ Notion
-- **Source-Control**: ✔️ GitHub, GitLab
+- **Source-Control**: ✔️ GitHub, GitLab, CodeCommit
 - **Scripting**: ✔️ Python, Go, ✔️ C++, Bash
-- **Build/Containers**: Kubernetes, ✔️ Docker
+- **Build**: ✔️ Maven
+- **Containers**: Kubernetes, ✔️ Docker
 - **Infrastructure-as-code**: Terraform, ✔️ Cloudformation
+- **Testing**: ✔️ Selenium
 - **CI/CD**: Jenkins, ✔️ GitHub Actions, sonarsource
 - **Cloud-Providers**: ✔️ AWS, GCP, Azure
 - **Config-Management**: ✔️ Ansible, Chef, Puppet

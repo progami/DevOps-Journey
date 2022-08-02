@@ -1,6 +1,8 @@
 # DevOps-Journey
 
-## This is a mono-repo (just like Google), each branch is dedicated to a part of the DevOps journey
+## This is a mono-repo (just like Google), 
+
+**Each branch** is dedicated to a part of the DevOps journey
 
 - 1.x - Planning
 - 2.x - Source Control

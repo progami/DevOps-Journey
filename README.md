@@ -1,27 +1,35 @@
 # DevOps-Journey
 
-## This repo has different branches, each branch is dedicated to a certain part of learning DevOps practices
+## This is a mono-repo (just like Google), each branch is dedicated to a part of the DevOps journey
 
-- 1.x - Git Learning / Source Control
-- 2.x - Jenkins / Automation
-- 3.x - Cloud Providers / Infrastructure
-    - 3.1 - Cloud Resume Challenge
+- 1.x - Planning
+- 2.x - Source Control
+- 3.x - Cloud Infrastructure
+    - 3.1 - Cloud Resume Challenge (AWS)
     - 3.2 - AWS CSA - Associate exam (Temporarily down)
+- 4.x - Scripting
+- 5.x - Containers
+- 6.x - Infrastrucutre as code
+- 7.x - CI/CD
+- 8.x - Testing 
+- 9.x - Configuration Management
+- 10.x - Infrastructure Monitoring
+- 11.x - Logging
+- 12.x - App Monitoring
 
 ## DevOps stack covered
-- **Planning**: ✔️ Jira, ✔️ Slack, ✔️ Notion
-- **Source-Control**: ✔️ GitHub, GitLab, CodeCommit
-- **Scripting**: ✔️ Python, Go, ✔️ C++, Bash
-- **Build**: ✔️ Maven
-- **Containers**: Kubernetes, ✔️ Docker
-- **Infrastructure-as-code**: Terraform, ✔️ Cloudformation
-- **Testing**: ✔️ Selenium
-- **CI/CD**: Jenkins, ✔️ GitHub Actions, sonarsource
-- **Cloud-Providers**: ✔️ AWS, GCP, Azure
-- **Config-Management**: ✔️ Ansible, Chef, Puppet
-- **Infrastructure-Monitoring**: Nagios, Prometheus
-- **Logging**: ELK-Stack, ✔️ Cloudwatch
-- **App-Monitoring**: Jaeger, New Relic
+- 1.x - **Planning**: ✔️ Jira, ✔️ Slack, ✔️ Notion
+- 2.x - **Source Control**: ✔️ GitHub, GitLab, CodeCommit
+- 3.x - **Cloud Infrastructure**: ✔️ AWS, GCP, Azure
+- 4.x - **Scripting**: ✔️ Python, Go, ✔️ C++, Bash
+- 5.x - **Containers**: Kubernetes, ✔️ Docker
+- 6.x - **Infrastructure-as-code**: Terraform, ✔️ Cloudformation
+- 7.x - **CI/CD**: Jenkins, ✔️ GitHub Actions, sonarsource
+- 8.x - **Testing**: ✔️ Selenium
+- 9.x - **Config Management**: ✔️ Ansible, Chef, Puppet
+- 10.x - **Infrastructure Monitoring**: Nagios, Prometheus
+- 11.x - **Logging**: ELK-Stack, ✔️ Cloudwatch
+- 12.x - **App-Monitoring**: Jaeger, New Relic
 
 
 ## DevOps Roadmap / Overall Summary

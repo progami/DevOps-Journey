@@ -1,42 +1,12 @@
-# DevOps-Journey
+# 1.0-Planning
 
-## This is a mono-repo (just like Google)
+## Branch Topics: Notion, Slack, JIRA
 
-**Each branch** is dedicated to a part of the DevOps journey
+## JIRA
+- resources related to JIRA will be shared
 
-- 1.x - Planning
-- 2.x - Source Control
-- 3.x - Cloud Infrastructure
-    - 3.1 - Cloud Resume Challenge (AWS)
-    - 3.2 - AWS CSA - Associate exam (Temporarily down)
-- 4.x - Scripting
-- 5.x - Containers
-- 6.x - Infrastrucutre as code
-- 7.x - CI/CD
-- 8.x - Testing 
-- 9.x - Configuration Management
-- 10.x - Infrastructure Monitoring
-- 11.x - Logging
-- 12.x - App Monitoring
+## Slack
+- resources related to Slack will be shared
 
-## DevOps stack covered
-- 1.x - **Planning**: ✔️ Jira, ✔️ Slack, ✔️ Notion
-- 2.x - **Source Control**: ✔️ GitHub, GitLab, CodeCommit
-- 3.x - **Cloud Infrastructure**: ✔️ AWS, GCP, Azure
-- 4.x - **Scripting**: ✔️ Python, Go, ✔️ C++, Bash
-- 5.x - **Containers**: Kubernetes, ✔️ Docker
-- 6.x - **Infrastructure-as-code**: Terraform, ✔️ Cloudformation
-- 7.x - **CI/CD**: Jenkins, ✔️ GitHub Actions, sonarsource
-- 8.x - **Testing**: ✔️ Selenium
-- 9.x - **Config Management**: ✔️ Ansible, Chef, Puppet
-- 10.x - **Infrastructure Monitoring**: Nagios, Prometheus
-- 11.x - **Logging**: ELK-Stack, ✔️ Cloudwatch
-- 12.x - **App-Monitoring**: Jaeger, New Relic
-
-
-## DevOps Roadmap / Overall Summary
-
-![My Image](devops.png)
-
-Roadmap Credits: https://roadmap.sh/devops
-
+## Notion
+- resources related to Notion will be shared

@@ -1,6 +1,6 @@
 # DevOps-Journey
 
-## This is a mono-repo (just like Google), 
+## This is a mono-repo (just like Google)
 
 **Each branch** is dedicated to a part of the DevOps journey
 

@@ -1,5 +1,10 @@
-FROM alpine
+FROM node:alpine
 
-RUN apk add --update redis
+WORKDIR '/app'
+ 
+COPY frontend/package.json .
+RUN npm install
 
-CMD ["redis-server"]
+COPY frontend/. .
+
+CMD ["npm", "run", "start"]

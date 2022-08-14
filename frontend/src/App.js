@@ -12,7 +12,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          We are inside the App.js
+          We are inside the App.js - modified v3
         </p>
         <a
           className="App-link"

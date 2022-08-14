@@ -1,11 +1,22 @@
 FROM node:alpine
 
-WORKDIR '/app'
- 
-COPY frontend/package.json .
+# Avoid perm issues and best practice to not use "root"
+USER node
 
+# make directory to host app using USER permissions
+RUN mkdir -p /home/node/app
+
+# Set workdir to app directory
+WORKDIR /home/node/app
+
+# set permissions and then copy package.json from current directory to container
+COPY --chown=node:node frontend/package.json .
+
+# npm install to download nodejs stuff
 RUN npm install
 
-COPY frontend/. .
+# copy all other contents of folder
+COPY --chown=node:node frontend/. .
 
+# start app
 CMD ["npm", "run", "start"]

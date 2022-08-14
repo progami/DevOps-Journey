@@ -3,9 +3,9 @@ services:
   web-app:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile.dev
     ports:
       - "3000:3000"
     volumes:
-      - /app/node_modules
+    # simply copy all the files inside frontend into container /app directory
       - ./frontend:/app

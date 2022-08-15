@@ -23,3 +23,4 @@ services:
       # Copy from host to container
       - ./frontend:/home/node/app
     command: ["npm", "run", "test"]
+

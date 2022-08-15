@@ -1,5 +1,6 @@
 version: '3'
 services:
+
   web-app:
     build:
       context: .
@@ -7,6 +8,18 @@ services:
     ports:
       - "3000:3000"
     volumes:
-    # simply copy all the files inside frontend into container /app directory
+      # Bookmark this
       - /home/node/app/node_modules
+      # Copy from host to container
       - ./frontend:/home/node/app
+  
+  tests:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    volumes:
+      # Bookmark this
+      - /home/node/app/node_modules
+      # Copy from host to container
+      - ./frontend:/home/node/app
+    command: ["npm", "run", "test"]

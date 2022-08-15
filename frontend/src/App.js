@@ -2,11 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-
-  var timeNow = new Date();
-
-
-
   return (
     <div className="App">
       <header className="App-header">
@@ -20,9 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        
-        inter
-
+        learn react
         </a>
       </header>
     </div>

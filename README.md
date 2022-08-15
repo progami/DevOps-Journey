@@ -33,6 +33,10 @@
 - 11.x - **Logging**: ELK-Stack, ✔️ Cloudwatch
 - 12.x - **App-Monitoring**: Jaeger, New Relic
 
+## Books
+- The DevOps Handbook, Gene Kim, Patrick Debois
+- Building Microservices, Sam Newman
+
 
 ## DevOps Roadmap / Overall Summary
 

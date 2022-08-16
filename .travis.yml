@@ -1,0 +1,12 @@
+sudo: required
+language: generic 
+
+services:
+  - docker
+
+before_install:
+  - docker build -t jarraramjad/simple-node-app -f Dockerfile.dev .
+
+script:
+  - docker run -e CI=true jarraramjad/simple-node-app npm run test
+

@@ -26,7 +26,7 @@
 - 4.x - **Scripting**: ✔️ Python, Go, ✔️ C++, Bash
 - 5.x - **Containers**: Kubernetes, ✔️ Docker
 - 6.x - **Infrastructure-as-code**: Terraform, ✔️ Cloudformation
-- 7.x - **CI/CD**: Jenkins, ✔️ GitHub Actions, sonarsource
+- 7.x - **CI/CD**: ✔️ Travis CI, Jenkins, ✔️ GitHub Actions, sonarsource
 - 8.x - **Testing**: ✔️ Selenium
 - 9.x - **Config Management**: ✔️ Ansible, Chef, Puppet
 - 10.x - **Infrastructure Monitoring**: Nagios, Prometheus

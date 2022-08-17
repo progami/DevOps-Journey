@@ -2,7 +2,7 @@
 
 ## Basics
 
-- What is Kubernetes?
+- What is Kubernetes? (Greek for Captain)
 Open source container orchestration tool developed by Google
 
 - What problems does Kubernetes solve?
@@ -44,3 +44,19 @@ Disaster Recovery
 - StatefulSet
     - Same as above but caters for state
     - Useful for databases to avoid data inconsistencies
+
+
+## Worker machine in K8 Cluster
+
+- Container runtime (each node has one) 
+- Kublet (each node has one)
+- Kube Proxy (each node has one)
+
+
+
+## Intersting resources
+- The Illustrated Children's Guide to Kubernetes
+https://www.youtube.com/watch?v=4ht22ReBjno&ab_channel=Deis%2CInc.
+
+- Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]
+https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana

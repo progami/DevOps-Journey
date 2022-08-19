@@ -8,5 +8,6 @@ RUN npm run build
 
 # copy build files to nginx for static hosting
 FROM nginx
+EXPOSE 80
 COPY --from=builder /home/node/app/build /usr/share/nginx/html
 

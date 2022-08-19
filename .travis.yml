@@ -18,4 +18,6 @@ deploy:
   bucket_name: "elasticbeanstalk-eu-central-1-026371852155"
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
+  on:
+    branch: 5.2-Simple-React-Node-App
 

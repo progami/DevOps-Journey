@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: Dockerfile.dev
     ports:
-      - "3000:3000"
+      - "80:80"
     volumes:
       # Bookmark this
       - /home/node/app/node_modules

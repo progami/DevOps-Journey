@@ -12,15 +12,4 @@ services:
       - /home/node/app/node_modules
       # Copy from host to container
       - ./frontend:/home/node/app
-  
-  # tests:
-  #   build:
-  #     context: .
-  #     dockerfile: Dockerfile.dev
-  #   volumes:
-  #     # Bookmark this
-  #     - /home/node/app/node_modules
-  #     # Copy from host to container
-  #     - ./frontend:/home/node/app
-  #   command: ["npm", "run", "test"]
 

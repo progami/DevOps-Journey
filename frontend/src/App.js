@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          We are inside the App.js - Docker on EBS
+          We are inside the App.js - Docker on EBS - 2
         </p>
         <a
           className="App-link"

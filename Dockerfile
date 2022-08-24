@@ -1,7 +1,7 @@
 # Build the react js frontend first
 FROM node:16-alpine as builder
 
-WORKDIR /home/node/app
+WORKDIR '/home/node/app'
 
 COPY frontend/package.json .
 

@@ -13,9 +13,9 @@ script:
 deploy:
   provider: elasticbeanstalk
   region: "eu-central-1"
-  app: "docker-react"
-  env: "Dockerreact-env"
-  bucket_name: "elasticbeanstalk-eu-central-1-026371852155"
+  app: "docker-react" # Your app name on EBS
+  env: "Dockerreact-env" # Your env name on EBS
+  bucket_name: "elasticbeanstalk-eu-central-1-026371852155" # Your S3 Bucket
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
   on:

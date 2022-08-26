@@ -6,9 +6,10 @@
 
 - 1.x - Planning
 - 2.x - Source Control
-- 3.x - Cloud Infrastructure
+- 3.x - Cloud Providers
     - 3.1 - Cloud Resume Challenge (AWS)
     - 3.2 - AWS CSA - Associate exam (Temporarily down)
+    - 3.3 - 3Tier-CRUD-App
 - 4.x - Scripting
 - 5.x - Containers
 - 6.x - Infrastrucutre as code

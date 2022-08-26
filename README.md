@@ -9,9 +9,12 @@
 - 3.x - Cloud Providers
     - 3.1 - Cloud Resume Challenge (AWS)
     - 3.2 - AWS CSA - Associate exam (Temporarily down)
-    - 3.3 - 3Tier-CRUD-App
 - 4.x - Scripting
 - 5.x - Containers
+    - 5.1 - Docker
+    - 5.2 - Simple-React-Node-App
+    - 5.3 - 3Tier-CRUD-App
+    - 5.4 - Kubernetes
 - 6.x - Infrastrucutre as code
 - 7.x - CI/CD
 - 8.x - Testing 

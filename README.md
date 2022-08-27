@@ -26,7 +26,7 @@
 ## DevOps stack covered
 - 1.x - **Planning**: ✔️ Jira, ✔️ Slack, ✔️ Notion
 - 2.x - **Source Control**: ✔️ GitHub, GitLab, CodeCommit
-- 3.x - **Cloud Infrastructure**: ✔️ AWS, GCP, Azure
+- 3.x - **Cloud Providers**: ✔️ AWS, GCP, Azure
 - 4.x - **Scripting**: ✔️ Python, Go, ✔️ C++, Bash
 - 5.x - **Containers**: Kubernetes, ✔️ Docker
 - 6.x - **Infrastructure-as-code**: Terraform, ✔️ Cloudformation

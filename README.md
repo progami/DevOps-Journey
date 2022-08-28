@@ -11,8 +11,10 @@ reference: https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-g
  git branch -m < newname > (current branch)
  
 2. push new local branch to remote
+ 
  git push origin -u < newname >
 
 3. delete the old remote branch
+ 
  git push origin --delete < oldname >
 

@@ -29,8 +29,6 @@ Container is just a .zip file (Process) with all the dependencies
 - Scheduling Workloads, solves our scheduling/load balancing/provisioning issues
 - Infrastructure API, Provision infrastructure easily
 
-
-
 ## Components
 - Node - VM
 - Pod 
@@ -82,4 +80,6 @@ https://www.youtube.com/watch?v=4ht22ReBjno&ab_channel=Deis%2CInc.
 - Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]
 https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana
 
+- Should You Use Kubernetes and Docker In Your Next Project?
+https://www.youtube.com/watch?v=u8dW8DrcSmo&ab_channel=CodingTech
 
